@@ -3,6 +3,6 @@ int a = Convert.ToInt32(Console.ReadLine());
 int b = 2;
 while (b<=a)
 {
-    Console.Writeline(b + ", ");
+    Console.Write(b + ", ");
     b= b+2;
 }
